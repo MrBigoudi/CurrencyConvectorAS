@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Money</string>
+    <string name="app_rate">Rate</string>
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+    <string name="exchange_rate">Rate</string>
+    <string name="button_convert">Convert</string>
+    <string name="button_new_rate">New Rate</string>
+    <string name="currency_in_label">Convert from:</string>
+    <string name="currency_out_label">Convert to:</string>
+    <string name="dollars_symbol">$</string>
+    <string name="pounds_symbol">£</string>
+    <string name="euros_symbol">€</string>
+    <string name="currency_chooser_button_label">ok</string>
+</resources>
